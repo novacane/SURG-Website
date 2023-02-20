@@ -6,6 +6,7 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
+import Research from './pages/Research';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
           <Route exact path="/" element={<Home />}>
           </Route>
           <Route exact path="/framework" element={<Framework />}>
+          </Route>
+          <Route exact path="/research" element={<Research />}>
           </Route>
        </Routes>
       </Router>

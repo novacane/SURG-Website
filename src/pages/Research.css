@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.our-research-body {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  /* or 150% */
+  letter-spacing: -0.015em;
+  width:100%;
+
+}
+
+.our-research {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 78px;
+  
+  /* identical to box height */
+  letter-spacing: -0.015em;
+  padding-left: 80px;
+}
+
+.tiny-people-melting-planet {
+  width: 170%;
+}
+
+.research-top {
+  padding-right: 80px;
+  padding-left: 80px;
+  display: flex;
+  flex-direction: row;
+}
+
+.research-middle {
+  padding-right: 80px;
+  padding-left: 80px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.research-vector {
+  display:block;
+  margin:auto;
+  padding-right: 50px;
+  width: 91.5%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.subheading {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  
+  /* or 90% */
+  letter-spacing: -0.015em; 
+}
+
+.pl {
+  padding-left: 80px;
+}
+
+.pl2 {
+  padding-left: 20px;
+}
+
+.preliminary-research-body{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 30px;
+  letter-spacing: -0.015em;
+}
+
+.research-bottom{
+  padding-right: 80px;
+  padding-left: 80px;
+  display: flex;
+  flex-direction: row;
+} 
+
+.research-rectangle {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 492px;
+
+  background: #E3E6DF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  scale: .8;
+}
+
+.research-line {
+  width: 300px;
+  height: 0px;
+  align-self:center;
+}
+
+.rl1 {
+  border: 3px solid #2A9BB7;
+}
+
+.rl2 {
+  border: 3px solid #85A291;
+}
+
+.rl3 {
+  border: 3px solid #89BFCA;
+}
+
+.fs {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 30px;
+
+  /* identical to box height, or 150% */
+  text-align: left;
+  letter-spacing: -0.015em;
+
+  color: #000000;
+}
+
+.fs2 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+
+  /* or 150% */
+
+  color: rgba(0, 0, 0, 0.64);
+}
+
+
+
