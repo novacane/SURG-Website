@@ -1,0 +1,61 @@
+
+p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+
+
+.fs1 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    
+}
+
+.fs2 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.fs3 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.pl1 {
+    padding-left: 200px;
+}
+
+.g1 {
+    gap: 30px;
+}
+
+.no-flex {
+    align-self:center;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.section2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.section3 {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+

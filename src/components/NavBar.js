@@ -18,7 +18,7 @@ const NavBar = () => {
           <a className = "flex-item" href="/">Home</a>
           <a className = "flex-item" href="/research">Research </a>
           <a className="flex-item" href="/framework">Framework</a>
-          <a className = "flex-item" href="/team">Team</a>
+          <a className = "flex-item" href="/about">About</a>
           <a className = "flex-item" href="/insights">Insights</a>
       </div>
     </div>
