@@ -3,6 +3,7 @@ import Home from './pages/Home';
 import Framework from './pages/Framework';
 import Research from './pages/Research';
 import About from './pages/About';
+import PublicationsAndWork from './pages/PublicationsAndWork';
 import {
   BrowserRouter as Router,
   Route,
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route exact path="/about" element={<About />}>
           </Route>
+          <Route exact path="/publicationsandwork" element={<PublicationsAndWork />}>
+          </Route>
+          
        </Routes>
       </Router>
     </div>

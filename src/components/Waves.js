@@ -15,4 +15,4 @@ const Waves = () => {
 
 export default Waves
 
-// 1665 x 233
+// 1665 x 233, changing width, height to 100% made it laggy, at least in development

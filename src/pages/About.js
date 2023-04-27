@@ -16,7 +16,7 @@ const About = () => {
         <div className="section1 pl1">
             <div>
                 <p className="fs1">
-                    Microbiome technology addressing climate change
+                   An Evolving Team of Student Researchers
                 </p>
             </div>
             <div>

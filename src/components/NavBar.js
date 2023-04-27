@@ -19,7 +19,7 @@ const NavBar = () => {
           <a className = "flex-item" href="/research">Research </a>
           <a className="flex-item" href="/framework">Framework</a>
           <a className = "flex-item" href="/about">About</a>
-          <a className = "flex-item" href="/insights">Insights</a>
+          <a className = "flex-item" href="/publicationsandwork">Publications & Work</a>
       </div>
     </div>
 

@@ -42,10 +42,16 @@ const Research = () => {
     <br></br>
     <br></br>
 
+    <div className="stack">
+       <div className="accent color1"></div>
 
-    <h1 className="subheading pl">
-        Preliminary Research
-    </h1>
+       <div className="inner">
+        <h1 className="subheading pl">
+            Preliminary Research
+        </h1> 
+       </div>
+    </div>
+    <br></br>
     <div className="research-middle">
       <p className="preliminary-research-body">
       When we first started out, we wanted a full picture of where our climate and sustainability 
@@ -68,9 +74,18 @@ const Research = () => {
 
     <br></br>
   
-    <h1 className="subheading pl">
-        Our Work
-    </h1>
+    
+
+    <div className="stack">
+       <div className="accent color2"></div>
+
+       <div className="inner">
+        <h1 className="subheading pl">
+            Our Work
+        </h1> 
+       </div>
+    </div>
+
     <div className="research-bottom">
       <div className="research-rectangle">
         <h1 className="subheading pl2">

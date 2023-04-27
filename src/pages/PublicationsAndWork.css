@@ -1,0 +1,43 @@
+p {
+    font-family: 'Urbanist';
+    font-style: normal;
+  
+    /* or 150% */
+    letter-spacing: -0.015em;
+    width:100%;
+}
+
+.accent{
+    width: 75.35px;
+    height: 33.08px;
+    left: 111.35px;
+    top: 924px;
+
+   
+    border-radius: 200px 0px;
+    transform: rotate(29.62deg);
+}
+
+.color1{
+    background: #E9BFB6;
+}
+
+.color2{
+    background: #FACB9E;
+}
+
+.stack{
+    position:relative;
+    padding-left:80px;
+}
+  
+.inner{
+    position:absolute;
+    top: -40px;
+    left: 40px;
+}
+
+
+
+
+
