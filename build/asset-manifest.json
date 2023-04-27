@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ba8b04c.css",
+    "main.js": "/static/js/main.0f343e9b.js",
+    "static/js/787.f2f11878.chunk.js": "/static/js/787.f2f11878.chunk.js",
+    "static/media/current.png": "/static/media/current.d9d811fe918b6183b515.png",
+    "static/media/2020.png": "/static/media/2020.3c4d9a4e93a4166ea1ef.png",
+    "static/media/2021.png": "/static/media/2021.3c4d9a4e93a4166ea1ef.png",
+    "static/media/world2.png": "/static/media/world2.6bede5a541b060fd3b21.png",
+    "static/media/tinypeoplemeltingplanet.png": "/static/media/tinypeoplemeltingplanet.ac2c340f7cf50bc20074.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/frameworkimg.svg": "/static/media/frameworkimg.f1b414deb8ca5e044b54e216bc619708.svg",
+    "index.html": "/index.html",
+    "static/media/researchvector2.svg": "/static/media/researchvector2.ced34df084628882a15221e9cfe20db3.svg",
+    "static/media/researchvector.svg": "/static/media/researchvector.0c3577404cb187f2ef580128eb952607.svg",
+    "main.3ba8b04c.css.map": "/static/css/main.3ba8b04c.css.map",
+    "main.0f343e9b.js.map": "/static/js/main.0f343e9b.js.map",
+    "787.f2f11878.chunk.js.map": "/static/js/787.f2f11878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba8b04c.css",
+    "static/js/main.0f343e9b.js"
+  ]
+}

@@ -17,6 +17,7 @@
     font-weight: bold;
     align-items: center;
     flex-wrap:wrap;
+    gap:40px;
 }
 
  .logoImage {
@@ -25,7 +26,7 @@
 
 .flex-item {
     text-decoration: none;
-    font-size: 1em;
+    font-size: 1.25em;
     color: black;
     border-bottom: 5px solid transparent 
 }
@@ -45,6 +46,7 @@
     flex-direction: column;
     align-items: left;
     justify-content: space-around;
+    padding:20px;
  }
  
  .title-item{
