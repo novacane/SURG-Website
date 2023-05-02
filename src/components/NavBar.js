@@ -10,7 +10,7 @@ const NavBar = () => {
       <div className='logo'>
       <img className="logoImage" src={Logo} alt = 'logo'></img>
       <div className = "titletext">
-        <div className = 'title-item'>The Intersectional</div>
+        <div className = 'title-item'>The Holistic</div>
         <div className = 'title-item'>Sustainability Review</div>
       </div>
       </div>

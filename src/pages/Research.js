@@ -75,7 +75,6 @@ const Research = () => {
     <br></br>
   
     
-
     <div className="stack">
        <div className="accent color2"></div>
 
@@ -153,7 +152,6 @@ const Research = () => {
       
     </div>
     
-
 
 
 
